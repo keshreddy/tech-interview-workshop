@@ -23,9 +23,16 @@ Below are the instructions for this assignment. Your repository should automatic
 ### 📝 TODO: Complete this section
 
 * **Your name and PID**:
+Menase Yirdaw: menasey
 
 * **Your partner's name and PID:**
-
+Kesh Reddy: keshr
+Arav Singh: aravsingh
 * **Link to selected coding challenge:**
-
+https://leetcode.com/problems/product-of-array-except-self/
+https://leetcode.com/problems/maximum-subarray/description/
+https://leetcode.com/problems/longest-repeating-character-replacement/description/
 * **Summary of partner's interview feedback:**
+
+Kesh handled the Product of Array Except Self problem really well, using an efficient approach to solve it. 
+Arav was confident with the Maximum Subarray and Longest Repeating Character Replacement problems, using solid techniques like dynamic programming. They both gave helpful feedback and worked well together.
